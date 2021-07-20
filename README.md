@@ -7,6 +7,8 @@ The Kriss Vector, a select-fire SMG with an RPM of 1200. It has a full-auto, 2 r
 - Suppressed: 25rnd Mag, Vert Grip, Suppressor, and AR Stock
 - Pistol: 10rnd Mag, No Stock, and Low-Profile Ironsights
 
-## Requirements 
-- Melonloader 0.4.0+
-- ModThatIsNotMod
+## How to Install
+- Make sure you have MelonLoader installed
+- Make sure you have ModThatIsNotMod installed
+- Drag and drop .melon file into your UserData/CustomItems folder
+
